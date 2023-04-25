@@ -2,6 +2,7 @@
 import functions
 import time
 now = time.strftime('%H:%M:%S, %d/%b/%Y')
+print(now)
 while True:
     user_action = input("introduce add, show, edit, complete or exit: ")
     user_action = user_action.strip()
@@ -48,3 +49,4 @@ while True:
     else:
         print('Comando no válido.')
 print('Bye!')
+
