@@ -1,10 +1,5 @@
-Hamburguesa 
-Espaguetti
-PicadilloEscabeche
-Frijol con puerco
-Chiles rellenos
-Pozole
-Puchero
-Poc Chuc
-Agua Chile
-Yogurt
+UberearEspaguetti
+Comer
+InformarmeYogurt
+Dormir
+Llorar
