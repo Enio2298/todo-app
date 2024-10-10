@@ -1,4 +1,4 @@
-My To-Do App
+# My To-Do App
 
 This is a simple To-Do application built using Python and PySimpleGUI. It allows users to add, edit, complete, and manage tasks in a to-do list. The application also displays the current time and date, which updates in real-time.
 Features
